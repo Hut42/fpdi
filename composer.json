@@ -1,5 +1,5 @@
 {
-    "name": "Hut42/itbz-pdi-fork",
+    "name": "hut42/itbz-pdi-fork",
     "description": "Unofficial PSR-4 compliant version of the FPDI library",
     "type": "library",
     "license": "MIT",
